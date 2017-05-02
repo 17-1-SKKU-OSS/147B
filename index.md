@@ -1,25 +1,16 @@
-## Welcome to GitHub Pages
+## WELCOME TO TEAM 147B
 
-You can use the [editor on GitHub](https://github.com/17-1-SKKU-OSS/147B/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+HOMEPAGE OF THE TEAM 147B
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### TEAM NAME
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+147B
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Student Name
+1. Cho Jun Ho
+2. Lee Dong Young
+3. Park Bo Gyu
 
 **Bold** and _Italic_ and `Code` text
 
