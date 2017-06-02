@@ -1,0 +1,4 @@
+int main(){
+  write("HelloWorld\n");
+  return 0;
+}
