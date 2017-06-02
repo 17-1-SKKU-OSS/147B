@@ -1,5 +1,30 @@
-int main(){
-  write("HelloWorld\n");
+void handle_url(string this_url)
+{
+  write("URL: " + this_url + "\n");
+} // handle_url
+
+int main(int argc, array(string) argv)
+{
+  write("Welcome to the Very Simple WWW Browser!\n");
+  string url;
+  if(argc == 1)
+  {
+    do
+    {
+      write("Type the address of the web page:\n");
+      url = Stdio.stdin->gets();
+    } while(sizeof(url) == 0);
+  }
+  else if(argc == 2)
+  {
+    url = argv[1];
+  }
+  else
+  {
+    write("Too many arguments. Goodbye. Sorry.\n");
+    return 1;
+  }
+  handle_url(url);
   return 0;
-}
-// hello man
+} // main
+
