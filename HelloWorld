@@ -1,11 +1,56 @@
-void write_one(int x)
-{
-  write("Number: " + x + "\n");
-}
-
 int main()
 {
-  array(int) all_of_them = ({ 1, 5, -1, 17, 17 });
-  map(all_of_them, write_one);
-  return 0;
+	int sum = 2+3*3;
+	write("%d\n",sum); // 2+(3*3)으로 계산된다.
+
+//////////////////////////////////////////////////
+	if(sum==11)
+		write("정답\n");
+	else
+		write("오답\n");			//기존 if문과 동일
+
+/////////////////////////////////////////////////
+	int a=1;					//기존 switch문과 동일
+	switch(a)
+	{
+	case 1:
+		write("케이스1입니다\n");
+		break;
+
+	case 2:
+		write("케이스2입니다\n");
+		break;
+	default:
+		write("디폴트입니다\n");
+	}
+
+//////////////////////////////////////////////////////
+	int e=1;					//기존 while문, for문, do~while문과 동일 
+	while(e<5)
+	{
+		write("%d ",e);
+		e++;
+	}
+	write("\n");
+/////////////////////////////////////////////////////
+	for(int b=1; b<5; b++)
+		write("%d ",b);
+	write("\n");
+/////////////////////////////////////////////////////
+	int c=1;
+	do{
+		write("%d ",c);
+		c++;
+	}while(c<5);
+	write("\n");
+////////////////////////////////////////////////////
+	array tmp1 = ({0,1,2,3});				//배열 표현이 C와 다름. tmp1[]={0,1,2,3};
+	for ( int tmp2 = 0; tmp2 < sizeof(tmp1); tmp2++ )
+	{
+  		int variable = tmp1 [ tmp2 ];
+  		write("%d ",variable);
+	}
+	return 0;
 }
+
+
