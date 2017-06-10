@@ -15,7 +15,7 @@ int main()
 	all_customers += ({ c });
 	write(c->number + ".\n");
 	write(c->name + ".\n");
-	//write(c->phone_numbers +".\n");		//출력어떻게하는지?
+	write(c->phone_numbers[0] + ". " + c->phone_numbers[1] + ".\n"); // 
 	
  	
 	return 0;
