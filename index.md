@@ -17,9 +17,9 @@ HOMEPAGE OF THE TEAM 147B
 
 PIKE Programming Language : https://github.com/17-1-SKKU-OSS/Pike.git
 
-### 활동내역 및 기타사항
+# 활동내역 및 기타사항
 
-# Our Project : PIKE Language
+### Our Project : PIKE Language
 (1) PIKE 언어를 학습해보자.
 - C언어와는 어떠한 차이점이 존재할까?
 - C언어와의 효율성을 비교해보자. 어떤점이 효율적이고 어떤점이 비효율적인가.
@@ -34,14 +34,14 @@ PIKE Programming Language : https://github.com/17-1-SKKU-OSS/Pike.git
 
 *** 우리는 PIKE를 배우는 Beginner의 입장으로써 앞으로 PIKE가 초보자들에게 다가가기 위해서 어떠한 것이 추가되어야 할지에 대해서 논의할 예정입니다. ***
 
-# 팀원별 역할과 활동
+### 팀원별 역할과 활동
 (1) 조준호 : Fork, Pull Request, Coding, Search Bug history
 
 (2) 박보규 : Coding, Search Bug History
 
 (3) 이동영 : 활동내역 정리, Search Bug History
 
-# 활동내역 1
+### 활동내역 1
 (1) 오늘 수행한 내용
 - PIKE 기초 문법에 대해 학습 : string 변수 선언, 조건문, do ~ while 반복문, 함수호출
 
@@ -52,12 +52,12 @@ PIKE Programming Language : https://github.com/17-1-SKKU-OSS/Pike.git
 - PIKE 공식 홈페이지의 PIKE 사용설명서의 문단이 왼쪽으로 쏠려있어 홈페이지를 사용하는데 가독성이 상당히 떨어짐
 - gtk PIKE module (그래픽 UI를 제공하기 위한 모듈)의 설치 바법이 상세하지 못하여 학습이 지연됨
 
-# 활동내역 2
+### 활동내역 2
 (1) 오늘 수행한 내용
 - STL과 유사한 기능 학습
 - PULL REQUEST 발송 (해당 내용은 ISSUE 참조)
 
-# 활동내역 3
+### 활동내역 3
 (1) 오늘 수행한 내용
 - PULL REQUEST 에 대한 답변 회신
 1. this should not be a pull-request but at an issue though even better would be to ask your questions on the mailinglist. there people will be happy to help you: http://pike.lysator.liu.se/forums/
