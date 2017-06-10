@@ -64,3 +64,4 @@ PIKE Programming Language : https://github.com/17-1-SKKU-OSS/Pike.git
 2. FYI: There's been a new version of the tutorial lying around since I re-made the Pike site a couple of months ago, but it never got installed on the production server. On the occasion of this pull request we'll make that happen asap so that the tutorial on the Pike site is usable.
 - 캐치와 게이지 문법을 학습
 - 학습 상 어려운 점을 포럼에 등록된 메일로 발송 (이전 PULL REQUEST에 대한 답변에 의거)
+- PIKE 홈페이지의 왼쪽 쏠림현상을 수정하기 위해 HTML 소스 수정 시도
