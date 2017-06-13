@@ -65,3 +65,8 @@ PIKE Programming Language : https://github.com/17-1-SKKU-OSS/Pike.git
 - 캐치와 게이지 문법을 학습
 - 학습 상 어려운 점을 포럼에 등록된 메일로 발송 (이전 PULL REQUEST에 대한 답변에 의거)
 - PIKE 홈페이지의 왼쪽 쏠림현상을 수정하기 위해 HTML 소스 수정 시도
+
+### 반려당한 풀리퀘스트에 추가 코멘트가 등재되었습니다. (2017.06.13) ###
+1. The introduction is still unreadable (unless you plan to do it on a 2001 flip mobile). Any progress on that?
+
+2. We are working on the new solution, which is partly implemented on the Pike site server, but we ran into some minor oddities we need to sort out before it is working properly. But it's in the making...
