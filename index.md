@@ -78,4 +78,4 @@ We sent Pull Request 1 : difficult things as beginners.
 1. The introduction is still unreadable (unless you plan to do it on a 2001 flip mobile). Any progress on that?
 (설명서가 여전히 읽을 수 없다는 유사 문의가 코멘트로 등재되었습니다.)
 2. We are working on the new solution, which is partly implemented on the Pike site server, but we ran into some minor oddities we need to sort out before it is working properly. But it's in the making...
-(번역: 우리는 부분적으로 파이크 사이트 서버에 구현 된 새로운 솔루션을 개발 중입니다. 하지만 제대로 작동하기 전에 미리 정렬해야하는 몇 가지 사소한 문제가 있으나 일단은 제작 중입니다 ...)
+(번역: 우리는 부분적으로 파이크 사이트 서버에 구현 된 새로운 솔루션을 개발 중입니다. 하지만 제대로 작동하기 전에 미리 정렬해야하는 몇 가지 사소한 문제가 있으나 일단은 제작 중입니다 ....)
